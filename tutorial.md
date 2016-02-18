@@ -39,6 +39,6 @@ Pandoc es una herramientsa que ns servirá para traducir ficheros markdown a htm
 
 ![](images/Captura7.png)
 
-Para poner en funcionamiento pandoc debemos acceder a una consola y ejecutar el siguiente comando: "pandoc tutorial.md -f markdown -t html -s -o index.html
+Para poner en funcionamiento pandoc debemos acceder a una consola y ejecutar el siguiente comando: "pandoc tutorial.md -f markdown -t html -s -o index.html"
 
 ![](images/Captura8.png)
