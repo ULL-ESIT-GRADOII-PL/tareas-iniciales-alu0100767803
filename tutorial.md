@@ -35,3 +35,12 @@ Lo ultimo que debemos hacer es ir a la página de cloud9 (https://c9.io/) y darn
 ![](Captura6.png)
 
 [c9](https://c9.io/)
+
+##Pandoc
+Pandoc es una herramientsa que ns servirá para traducir ficheros markdown a html u otros formatos, para descargarlo debemos acceder a la web de pandoc(http://pandoc.org/) y descargar el instalador para nuestro sistema operativo y una vez descargado si estamos en windows debemos seguir los pasos del instalador
+
+![](Captura7.png)
+
+Para poner en funcionamiento pandoc debemos acceder a una consola y ejecutar el siguiente comando: "pandoc tutorial.md -f markdown -t html -s -o index.html 
+
+![](Captura8.png)
