@@ -4,7 +4,7 @@
 
 Para instalar NodeJS en Windows primero debemos descargarnoslo de la web (https://nodejs.org/en/) y seguir los pasos indicados por el instalador
 
-![](images/Captura.png)
+![](images/Captura.PNG)
 
 ##Express
 Para instalar express debemos acceder a una consola en este caso al estar utilizando windows debemos acceder a Símbolo del Sistema y escribir: "npm  install express --save"
